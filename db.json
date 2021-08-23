@@ -1,49 +1,51 @@
 {
-   "Listings":[
-      {
-         "Title":"_MQA_ InHouse Add Adv-533 - camp 2875 - adg 18685 <!--cst=aw-->",
-         "Description1":"Make (Kia) Model (Rio) #cst=aw",
-         "Description2":"StateName (Gotham City) StateCode (GC) #cst=aw",
-         "LogoUrl":"//cdn-adimages.awadserver.com/0_180904060838.jpg",
-         "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMTg2ODUiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbS8oYWdpZCkjY3N0PWF3IiwiUGNpZCI6IjMyMjYiLCJMaWQiOiIyMTk0MjIiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
-         "DisplayUrl":"http://google.com/(agid)#cst=aw",
-         "TrafficType":1,
-         "AdvType":3,
-         "ProductCategory":1
-      },
-      {
-         "Title":"_MQA_adv 78- camp 7434 - <B> adg</B> 43189 <!-- awBtn13 -->",
-         "Description1":"excluded pub 84, website 223, placement 450",
-         "Description2":"adgroup level awbtn13",
-         "LogoUrl":"//cdn-adimages.awadserver.com/0_170314021337.jpg",
-         "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiNDMxODkiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbSIsIlBjaWQiOiIzMjI2IiwiTGlkIjoiNzU0MDEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
-         "DisplayUrl":"http://google.com",
-         "TrafficType":1,
-         "AdvType":2,
-         "ProductCategory":1
-      },
-      {
-         "Title":"_MQA_adv 77- camp 7257 - adg 35395 <!--cst=evq-->",
-         "Description1":"excluded pub 84, website 223, placement 450 EVQ",
-         "Description2":"campaign level - evq",
-         "LogoUrl":"//cdn-adimages.awadserver.com/0_180912101514.jpg",
-         "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMzUzOTUiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbSIsIlBjaWQiOiIzMjI2IiwiTGlkIjoiNjczMjEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
-         "DisplayUrl":"http://google.com",
-         "TrafficType":1,
-         "AdvType":2,
-         "ProductCategory":1
-      },
-      {
-         "Title":"_MQA_adv 71- camp 300 - adg 100196 <!--cst=onstarng-->",
-         "Description1":"Make: Kia Model: Rio 2021 cst=onstarng",
-         "Description2":"City: Gotham City State:Gotham City Zipcode: 99999",
-         "LogoUrl":"//cdn-adimages.awadserver.com/0_190606034332.jpg",
-         "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMTAwMTk2IiwiUnVsIjoiaHR0cHM6Ly93d3cuYXV0b3dlYi5jb20vY2Fycy9sYW5kLnJvdmVyL3JhbmdlLnJvdmVyLnZlbGFyLzk5OTk5IiwiUGNpZCI6IjMyMjYiLCJMaWQiOiIyMTk0MjEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
-         "DisplayUrl":"www.autoweb.com/#cst=onstarng",
-         "TrafficType":1,
-         "AdvType":2,
-         "ProductCategory":1
-      }
-   ],
-   "UserId":"039b7678-a095-4198-a8c7-0cd421eca09d"
+   "adserver": {
+      "Listings":[
+         {
+            "Title":"_MQA_ InHouse Add Adv-533 - camp 2875 - adg 18685 <!--cst=aw-->",
+            "Description1":"Make (Kia) Model (Rio) #cst=aw",
+            "Description2":"StateName (Gotham City) StateCode (GC) #cst=aw",
+            "LogoUrl":"//cdn-adimages.awadserver.com/0_180904060838.jpg",
+            "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMTg2ODUiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbS8oYWdpZCkjY3N0PWF3IiwiUGNpZCI6IjMyMjYiLCJMaWQiOiIyMTk0MjIiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl":"http://google.com/(agid)#cst=aw",
+            "TrafficType":1,
+            "AdvType":3,
+            "ProductCategory":1
+         },
+         {
+            "Title":"_MQA_adv 78- camp 7434 - <B> adg</B> 43189 <!-- awBtn13 -->",
+            "Description1":"excluded pub 84, website 223, placement 450",
+            "Description2":"adgroup level awbtn13",
+            "LogoUrl":"//cdn-adimages.awadserver.com/0_170314021337.jpg",
+            "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiNDMxODkiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbSIsIlBjaWQiOiIzMjI2IiwiTGlkIjoiNzU0MDEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl":"http://google.com",
+            "TrafficType":1,
+            "AdvType":2,
+            "ProductCategory":1
+         },
+         {
+            "Title":"_MQA_adv 77- camp 7257 - adg 35395 <!--cst=evq-->",
+            "Description1":"excluded pub 84, website 223, placement 450 EVQ",
+            "Description2":"campaign level - evq",
+            "LogoUrl":"//cdn-adimages.awadserver.com/0_180912101514.jpg",
+            "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMzUzOTUiLCJSdWwiOiJodHRwOi8vZ29vZ2xlLmNvbSIsIlBjaWQiOiIzMjI2IiwiTGlkIjoiNjczMjEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl":"http://google.com",
+            "TrafficType":1,
+            "AdvType":2,
+            "ProductCategory":1
+         },
+         {
+            "Title":"_MQA_adv 71- camp 300 - adg 100196 <!--cst=onstarng-->",
+            "Description1":"Make: Kia Model: Rio 2021 cst=onstarng",
+            "Description2":"City: Gotham City State:Gotham City Zipcode: 99999",
+            "LogoUrl":"//cdn-adimages.awadserver.com/0_190606034332.jpg",
+            "LandingUrl":"//cm.awadserver.com/click/?impressionstate=eyJfaWQiOiJmNzdmZGI4Ni02Y2I4LTRhMWQtYjU1NC0wYzkyNzMwNTAyMTIiLCJVaWQiOiIwMzliNzY3OC1hMDk1LTQxOTgtYThjNy0wY2Q0MjFlY2EwOWQiLCJBY2lkIjoiMTAwMTk2IiwiUnVsIjoiaHR0cHM6Ly93d3cuYXV0b3dlYi5jb20vY2Fycy9sYW5kLnJvdmVyL3JhbmdlLnJvdmVyLnZlbGFyLzk5OTk5IiwiUGNpZCI6IjMyMjYiLCJMaWQiOiIyMTk0MjEiLCJSYW5raW5nQWxnb3JpdGhtIjoiTUwifQ%3d%3d",
+            "DisplayUrl":"www.autoweb.com/#cst=onstarng",
+            "TrafficType":1,
+            "AdvType":2,
+            "ProductCategory":1
+         }
+      ],
+      "UserId":"039b7678-a095-4198-a8c7-0cd421eca09d"
+   }
 }
